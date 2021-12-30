@@ -397,7 +397,7 @@ class _DetailRecipeScreenState extends State<DetailRecipeScreen> {
                                   child: Row(
                                     children: [
                                       Container(
-                                        width: 450.0,
+                                        width: 360.0,
                                         child: new Text(
                                           "- " + item,
                                           style: TextStyle(
